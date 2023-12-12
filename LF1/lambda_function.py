@@ -13,7 +13,7 @@ reduced_host = 'search-photos-swywglfely7rbgh5hv5567ouo4.us-east-1.es.amazonaws.
 region = 'us-east-1'
 
 access_id = 'quantumstatic'
-access_secret = 'cavhom-3josgi-qucBuw'
+access_secret = 'redacted'
 
 headers = {
     "Content-Type": "application/json"
