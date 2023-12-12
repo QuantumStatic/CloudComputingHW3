@@ -1,0 +1,13 @@
+#left-right-division {
+  display: flex;
+  flex-direction: row;
+}
+
+.minor-left-item {
+  flex: 3;
+}
+
+.minor-right-item {
+  flex: 7;
+}
+
