@@ -21,7 +21,7 @@ Parameters:
 
   GitHubToken:
     Type: String
-    Default: "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"
+    Default: "Removed"
     NoEcho: true
     Description: GitHub Token for accessing the repository
 
