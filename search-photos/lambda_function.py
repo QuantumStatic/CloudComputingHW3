@@ -26,7 +26,7 @@ def search_index(query:str):
     service = 'es'
     
     access_id = 'quantumstatic'
-    access_secret = 'cavhom-3josgi-qucBuw'
+    access_secret = 'redacted'
 
     headers = {
         "Content-Type": "application/json"
